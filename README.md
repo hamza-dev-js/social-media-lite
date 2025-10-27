@@ -41,12 +41,12 @@ npm install
 node server.js
 
 
-Frontend Setup
+###  Frontend Setup
 cd social-media-frontend
 npm install
 npm start
 
-How It Works:
+### How It Works:
 
 1.Register a new user.
 2.Login to access the home page.
